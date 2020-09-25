@@ -1,4 +1,4 @@
-# Final Project (Name/Subject Pending)
+# Housing Trends in Various US Cities
 
 UC Berkeley Extension Data Analytics Bootcamp Final Project
 
@@ -8,12 +8,12 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 ##### Group Members:
 
-| Member               	| Role 	| Responsibilities|
-|----------------------	|------	| -------------   |
-| Abigail Woolf        	|      	|   	            |
-| Markeia Brox-Chester 	|      	|   	            |
-| Robert Rustia        	|      	|   	            |
-| Sathvik Aithala      	|      	|   	            |
+| Member               	| Role 	                 | Responsibilities|
+|----------------------	|---------------------   | -------------   |
+| Abigail Woolf        	|  Database Lead    	   |   	             |
+| Markeia Brox-Chester 	|  Project Manager       |   	             |
+| Robert Rustia        	|  Machine Learning Lead |   	             |
+| Sathvik Aithala      	|  Dashboard Lead  	     |   	             |
 
 ##### Communication Protocols:
 
@@ -23,9 +23,9 @@ In our shared GitHub repository, we will each be responsible for one of the four
 
 ---
 
-### (Insert Selected Topic)
+### Selected Topic - Housing Trends
 
-We chose to base our project around the *insert here* database found on *insert here*. We decided to choose this topic because we all found it both interesting and prevalent in the world around us. 
+Our group aims to analyze the housing market in various US cities to establish trends and predict future housing prices. We hope to gain valuable insights about the effect of demographics, industry, economic health, and other factors on the housing market. 
 
 
 
