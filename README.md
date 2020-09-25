@@ -7,10 +7,14 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 ### This is the GitHub repository for our group's final project. 
 
 ##### Group Members:
-- Abigail Woolf
-- Markeia Brox-Chester
-- Robert Rustia
-- Sathvik Aithala
+
+| Member               	| Role 	| Responsibilities|
+|----------------------	|------	| -------------   |
+| Abigail Woolf        	|      	|   	            |
+| Markeia Brox-Chester 	|      	|   	            |
+| Robert Rustia        	|      	|   	            |
+| Sathvik Aithala      	|      	|   	            |
+
 ---
 
 ### (Insert Selected Topic)
