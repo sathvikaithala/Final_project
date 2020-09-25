@@ -30,7 +30,3 @@ In our shared GitHub repository, we will each be responsible for one of the four
 Our group aims to analyze the housing market in various US cities to establish trends and predict future housing prices. We hope to gain valuable insights about the effect of demographics, industry, economic health, and other factors on the housing market. 
 
 
-
-Our Machine Learning presentation can be found [here](https://docs.google.com/presentation/d/1RYtjN_-gkwNigM9aA6RqLETYowFQddBiuGoeY-qUjKQ/edit?usp=sharing)
-
-test 
