@@ -10,7 +10,7 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 | Member               	| Role 	                 | Responsibilities                                                 |
 |----------------------	|---------------------   | -------------                                                    |
-| Abigail Woolf        	|  Database Lead    	   |  Manage the Database       	                                    |
+| Abigail Woolf        	|  Database Lead    	   |  Manage the Database and ETL Process      	                                    |
 | Markeia Brox-Chester 	|  Project Manager       |  Manage the Project Presentation, Technology, and Communication  |
 | Robert Rustia        	|  Machine Learning Lead |  Manage the Machine Learning Model and Design 	                  |
 | Sathvik Aithala      	|  Dashboard Lead  	     |  Manage the GitHub Repository and Presentation Dashboard         |
@@ -19,7 +19,7 @@ While members are assigned specific roles, we all work together on each part of 
 
 ##### Communication Protocols:
 
-Our group has decided to use Slack to communicate. We meet prior to the Tuesday and Thursday lecture sessions via Zoom. 
+Our group has decided to use Slack to communicate. We meet prior to the Tuesday and Thursday lecture sessions via Zoom. We are collecting resources on Google Drive.
 
 In our shared GitHub repository, we will each be responsible for one of the four major branches. 
 
