@@ -15,11 +15,17 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 | Robert Rustia        	|      	|   	            |
 | Sathvik Aithala      	|      	|   	            |
 
+##### Communication Protocols:
+
+Our group has decided to use Slack to communicate. We meet prior to the Tuesday and Thursday lecture sessions via Zoom. 
+
+In our shared GitHub repository, we will each be responsible for one of the four major branches. 
+
 ---
 
 ### (Insert Selected Topic)
 
-We chose to base our project around the *insert here* database found on *insert here*. 
+We chose to base our project around the *insert here* database found on *insert here*. We decided to choose this topic because we all found it both interesting and prevalent in the world around us. 
 
 
 
