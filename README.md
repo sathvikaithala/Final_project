@@ -45,8 +45,7 @@ The goal of our final product would be to allow a user to check information abou
 ### Our Data and Model
 
 ##### Week 1:
-This week, we will have a provisional dataset compiled of multiple datasets we found online. This includes sources on housing and income data from Kaggle and  demographics data from various governmental websites.
+This week, we will have a provisional dataset compiled of multiple datasets we found online. We narrowed down the datasets we will use to include housing and income data from Kaggle and demographics data from various governmental websites.
 
 Our provisional machine learning model will be tied to this dataset, and will be modified as the dataset is cleaned up.
-
 
