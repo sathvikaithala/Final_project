@@ -1,4 +1,4 @@
-# Housing Trends in Various US Cities
+# Housing Trends in the top 200 US Cities by Population
 
 UC Berkeley Extension Data Analytics Bootcamp Final Project
 
