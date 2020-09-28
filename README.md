@@ -49,3 +49,4 @@ This week, we will have a provisional dataset compiled of multiple datasets we f
 
 Our provisional machine learning model will be tied to this dataset, and will be modified as the dataset is cleaned up.
 
+### initial Unsupervised clustering completed. looking to refine data to remove outliers to allow for cleaner cluster generation. 
