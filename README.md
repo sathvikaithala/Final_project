@@ -34,13 +34,13 @@ The goal of our final product would be to allow a user to check information abou
 ##### Questions we would like to answer are:
 
 - Given the data available, can we expect housing prices to increase or decrease in the coming years?
-- What is the current distribution of housing prices in a given city?
-- What is the current income distribution of housing prices in a given city?
-- What are the top industries in a given city?
-- What are general population demographics of a given city?
-- What is the breakdown of renters vs. buyers in a city, and how has it changed over time?
-- How has income changed over time?
-- How have housing prices changed over time?
+    - Using demographic, income, housing price, job industries, and rent/buy ratios in a city to help come to this prediction.
+    
+- For a given city, which other US cities have similar housing and demographic data?
+    - For example, if a person is working in the tech sector and is looking for a new city to move to, they will be able to see a list of cities similar to San Francisco or Austin that may not be as obvious.
+    
+- Given a city name, what pertinent information should be understood by someone looking to move to the area?
+    - Our dashboard would allow a user to see charts of demographic data, income data, housing prices, and trends over time for each city. 
 
 ### Our Data and Model
 
