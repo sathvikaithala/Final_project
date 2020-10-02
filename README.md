@@ -50,3 +50,18 @@ This week, we will have a provisional dataset compiled of multiple datasets we f
 Our provisional machine learning model will be tied to this dataset, and will be modified as the dataset is cleaned up. In week 1, we were able to complete the initial unsupervised clustering. We will be refining the data to manage outliers during the ETL process, which will allow for cleaner cluster generation.
 
 ![Initial 3D PCA](ML_initial.png)
+
+
+
+### Dataset finding -- tasks for week 2.
+Find a dataset that can be useful to our project, inspect it, and prepare to present to group (by 10/4). Make pro/con list for each set, and discuss dificulty of cleaning/merging.
+
+- Abigail: Job/Industry
+- Markeia: Income & Unemployment (Bureau of Labor Statistics? Maybe some other sources)
+- Robert: Education
+- Sathvik: Housing (dig into Airbnb (AirBNBs per area, etc), RedFin)
+
+Existing Data:
+- Housing prices (Zillow)
+- Census - Population
+
