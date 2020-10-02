@@ -69,9 +69,15 @@ Existing Data:
 - Census - Population
 
 ##### General:
+
 Sathvik: Storyboard (10/4)
+
 Markeia/Sathvik: Presentation shell
+
 Robert: Regression model
+
 Markeia/Abby: Database (RDS, table structure, ERD?)
+
+---
 
 
