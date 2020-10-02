@@ -53,7 +53,10 @@ Our provisional machine learning model will be tied to this dataset, and will be
 
 
 
-### Dataset finding -- tasks for week 2.
+### Tasks
+
+##### Dataset:
+
 Find a dataset that can be useful to our project, inspect it, and prepare to present to group (by 10/4). Make pro/con list for each set, and discuss dificulty of cleaning/merging.
 
 - Abigail: Job/Industry
@@ -64,4 +67,11 @@ Find a dataset that can be useful to our project, inspect it, and prepare to pre
 Existing Data:
 - Housing prices (Zillow)
 - Census - Population
+
+##### General:
+Sathvik: Storyboard (10/4)
+Markeia/Sathvik: Presentation shell
+Robert: Regression model
+Markeia/Abby: Database (RDS, table structure, ERD?)
+
 
