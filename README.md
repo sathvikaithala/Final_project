@@ -60,6 +60,9 @@ Our provisional machine learning model will be tied to this dataset, and will be
 Find a dataset that can be useful to our project, inspect it, and prepare to present to group (by 10/4). Make pro/con list for each set, and discuss dificulty of cleaning/merging.
 
 - Abigail: Job/Industry
+    
+    - https://www.library.hbs.edu/Find/Databases/American-City-Business-Journals
+    
 - Markeia: Income & Unemployment (Bureau of Labor Statistics? Maybe some other sources)
 - Robert: Education
 - Sathvik: Housing (dig into Airbnb (AirBNBs per area, etc), RedFin)
