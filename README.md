@@ -81,3 +81,6 @@ Markeia/Abby: Database (RDS, table structure, ERD?)
 ---
 
 
+##### Week 2:
+
+![Dashboard Design](Images/Dashboard_Design.png)
