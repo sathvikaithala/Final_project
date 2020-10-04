@@ -72,7 +72,7 @@ Find a dataset that can be useful to our project, inspect it, and prepare to pre
         - AirBNB listings in major US Cities: https://www.kaggle.com/rudymizrahi/airbnb-listings-in-major-us-cities-deloitte-ml
             - lot of data, but only for 5 major cities
             
-        - <b>Movehub City Rankings: https://www.kaggle.com/blitzr/movehub-city-rankings </b>
+        - Movehub City Rankings: https://www.kaggle.com/blitzr/movehub-city-rankings
             - I like this one, includes some crime data, avg rent, avg. disposable income, and other cost of living metrics. However, number of cities is limited and includes some in other countries.
             
 
