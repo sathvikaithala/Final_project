@@ -64,6 +64,18 @@ Find a dataset that can be useful to our project, inspect it, and prepare to pre
 - Robert: Education
 - Sathvik: Housing (dig into Airbnb (AirBNBs per area, etc), RedFin)
 
+        - Zillow Rent Index: https://www.kaggle.com/zillow/rent-index
+        
+        - City Quality of Life: https://www.kaggle.com/orhankaramancode/city-quality-of-life-dataset
+            - includes non-US cities, 266 cities total. Would restrict our dataset
+            
+        - AirBNB listings in major US Cities
+            - lot of data, but only for 5 major cities
+            
+        - <b>Movehub City Rankings: https://www.kaggle.com/blitzr/movehub-city-rankings </b>
+            - I like this one, includes some crime data, avg rent, avg. disposable income, and other cost of living metrics. However, number of cities is limited and includes some in other countries.
+            
+
 Existing Data:
 - Housing prices (Zillow)
 - Census - Population
