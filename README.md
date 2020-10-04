@@ -69,7 +69,7 @@ Find a dataset that can be useful to our project, inspect it, and prepare to pre
         - City Quality of Life: https://www.kaggle.com/orhankaramancode/city-quality-of-life-dataset
             - includes non-US cities, 266 cities total. Would restrict our dataset
             
-        - AirBNB listings in major US Cities
+        - AirBNB listings in major US Cities: https://www.kaggle.com/rudymizrahi/airbnb-listings-in-major-us-cities-deloitte-ml
             - lot of data, but only for 5 major cities
             
         - <b>Movehub City Rankings: https://www.kaggle.com/blitzr/movehub-city-rankings </b>
