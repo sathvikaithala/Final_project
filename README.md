@@ -70,7 +70,7 @@ Existing Data:
 
 ##### General:
 
-Sathvik: Storyboard
+Sathvik: [Storyboard](https://docs.google.com/presentation/d/1yOjyyuVjfLKEzjmWsgEEYL0i5rm6rVszQStrF1ioT3U/edit?usp=sharing)
 
 Markeia/Sathvik: [Presentation shell](https://docs.google.com/presentation/d/19LbeI1SnXbS9LMt2tOaSCie8oN6crO4C3PowU80XueA/edit#slide=id.g9dfee94963_0_298)
 
