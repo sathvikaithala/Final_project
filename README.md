@@ -63,7 +63,8 @@ Find a dataset that can be useful to our project, inspect it, and prepare to pre
     
     - https://www.library.hbs.edu/Find/Databases/American-City-Business-Journals
     
-- Markeia: Income & Unemployment (Bureau of Labor Statistics? Maybe some other sources)
+- Markeia: Income & Unemployment (? Maybe some other sources)
+    - Unemployment Average per city (2010-2019) - Bureau of Labor Statistics: https://www.bls.gov/lau/home.htm
 - Robert: Education
 - Sathvik: Housing (dig into Airbnb (AirBNBs per area, etc), RedFin)
 
