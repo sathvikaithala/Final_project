@@ -65,6 +65,7 @@ Find a dataset that can be useful to our project, inspect it, and prepare to pre
     
 - Markeia: Income & Unemployment 
     - Unemployment Average per city (2010-2019) - Bureau of Labor Statistics: https://www.bls.gov/lau/home.htm
+    - Income: Census: https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h08.xls
 - Robert: Education
 - Sathvik: Housing (dig into Airbnb (AirBNBs per area, etc), RedFin)
 
