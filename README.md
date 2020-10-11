@@ -80,9 +80,9 @@ Detailed descriptions of our data analysis can be found in our [presentation](ht
 
 `add some more here, just giving a brief list of things we did in analysis`
 Data Sources:
-[Kaggle: Zillow US House Price Data](https://www.kaggle.com/paultimothymooney/zillow-house-price-data)
-[Census: US City and Town Population Totals: 2010-2019](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html)
-[Bureau of Labor Statistics - Unemployment Rates by City](https://www.bls.gov/lau/data.htm)
+-[Kaggle: Zillow US House Price Data](https://www.kaggle.com/paultimothymooney/zillow-house-price-data)
+-[Census: US City and Town Population Totals: 2010-2019](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html)
+-[Bureau of Labor Statistics - Unemployment Rates by City](https://www.bls.gov/lau/data.htm)
 
 
 #### Database:
