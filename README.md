@@ -4,9 +4,9 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 ---
 
-### This is the GitHub repository for our group's final project. 
+## This is the GitHub repository for our group's final project. 
 
-##### Group Members:
+## Group Members:
 
 | Member               	| Role 	                 | Responsibilities                                                 |
 |----------------------	|---------------------   | -------------                                                    |
@@ -17,21 +17,21 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 While members are assigned specific roles, we all work together on each part of the project. 
 
-##### Communication Protocols:
+## Communication Protocols:
 
-Our group has decided to use Slack to communicate. We meet prior to the Tuesday and Thursday lecture sessions via Zoom. We are collecting resources on Google Drive.
+Our group has decided to use Slack to communicate. We meet during the Tuesday and Thursday lecture sessions via Zoom, and set up additional meetings as needed. We are collecting resources on Google Drive. Cleaned and finalized resources will be added to the master branch of this GitHub repository.
 
 In our shared GitHub repository, we will each be responsible for one of the four major branches. 
 
 ---
 
-### Selected Topic - Housing Trends
+## Selected Topic - Housing Trends
 
 Our group aims to analyze the housing market in the top US cities by population to establish trends and directionally predict future housing prices. We hope to gain valuable insights about the effect of demographics, industry, economic health, and other factors on the housing market. We selected this topic as each member in our group was interested in better understanding the housing market in the Bay Area, as well as in similar cities should we decide to apply for jobs elsewhere. 
 
 The goal of our final product would be to allow a user to check information about certain cities that they might be considering relocating to. For example, someone who works in the Technology sector might be interested in comparing the income, housing price, and population demographics of San Francisco, Austin, and Seattle while they are applying for jobs. This could help them better understand similarities and differences between different cities and aid their decision making process. 
 
-##### Questions we would like to answer are:
+## Questions we would like to answer are:
 
 - Given the data available, can we expect housing prices to increase or decrease in the coming years?
     - Using demographic, income, housing price, job industries, and rent/buy ratios in a city to help come to this prediction.
@@ -42,9 +42,9 @@ The goal of our final product would be to allow a user to check information abou
 - Given a city name, what pertinent information should be understood by someone looking to move to the area?
     - Our dashboard would allow a user to see charts of demographic data, income data, housing prices, crime, and unemployment rates, and trends over time for each city. 
 
-### Final Project Deliverables:
+## Final Project Deliverables:
 
-##### Week 1:
+### Week 1:
 
 This week, we have a provisional dataset compiled of multiple datasets we found online. We narrowed down the datasets we will use to include housing and income data from Kaggle and demographics data from various governmental websites. The list of datasets we are using is in the master branch of this repository.
 
@@ -54,56 +54,12 @@ Our provisional machine learning model is tied to this dataset, and will be modi
 
 ![Initial 3D PCA](ML_initial.png)
 
-
-
-### Tasks (*** DELETE THIS SECTION BEFORE SUBMITTING***)
-
-##### Dataset:
-
-Find a dataset that can be useful to our project, inspect it, and prepare to present to group (by 10/4). Make pro/con list for each set, and discuss dificulty of cleaning/merging.
-
-- Abigail: Job/Industry
-    
-    - https://www.library.hbs.edu/Find/Databases/American-City-Business-Journals
-    
-- Markeia: Income & Unemployment 
-    - Unemployment Average per city (2010-2019) - Bureau of Labor Statistics: https://www.bls.gov/lau/home.htm
-    - Income: Census: https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h08.xls
-- Robert: Education
-- Sathvik: Housing (dig into Airbnb (AirBNBs per area, etc), RedFin)
-
-        - Zillow Rent Index: https://www.kaggle.com/zillow/rent-index
-        
-        - City Quality of Life: https://www.kaggle.com/orhankaramancode/city-quality-of-life-dataset
-            - includes non-US cities, 266 cities total. Would restrict our dataset
-            
-        - AirBNB listings in major US Cities: https://www.kaggle.com/rudymizrahi/airbnb-listings-in-major-us-cities-deloitte-ml
-            - lot of data, but only for 5 major cities
-            
-        - Movehub City Rankings: https://www.kaggle.com/blitzr/movehub-city-rankings
-            - I like this one, includes some crime data, avg rent, avg. disposable income, and other cost of living metrics. However, number of cities is limited and includes some in other countries.
-            
-
-Existing Data:
-- Housing prices (Zillow)
-- Census - Population
-
-##### General:
-
-Sathvik: [Storyboard](https://docs.google.com/presentation/d/1yOjyyuVjfLKEzjmWsgEEYL0i5rm6rVszQStrF1ioT3U/edit?usp=sharing)
-
-Markeia/Sathvik: [Presentation shell](https://docs.google.com/presentation/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/edit#slide=id.p1)
-
-Robert: Regression model
-
-Markeia/Abby: Database (RDS, table structure, ERD?)
-
 ---
 
+### Week 2:
 
-##### Week 2:
+#### Locations of various project deliverables:
 
-##### Locations of various project deliverables:
 | Objective | Location |
 |-----------|-----------|
 |Presentation| [Google Slides](https://docs.google.com/presentation/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/edit#slide=id.p1)|
@@ -111,19 +67,49 @@ Markeia/Abby: Database (RDS, table structure, ERD?)
 |Machine Learning code | GitHub Master Branch -  |
 |Dashboard Wireframe | GitHub Master Branch - Images/Dashboard_Design.png|
 
-##### Presentation:
+
+#### Presentation:
 Our presentation is hosted on Google Slides, and can be found [here](https://docs.google.com/presentation/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/edit#slide=id.p1).
 
-##### Database:
+##### Data Exploration Phase:
+
+##### Data Analysis Phase:
 
 
-##### Machine Learning:
+#### Database:
+(Filler text, modify as necessary) We added data from *sources* for each of the top 50 US Cities.
 
 
-##### Dashboard:
+#### Machine Learning:
 
-Here is the proposed layout for our dashboard. This design allows us to showcase various skills we learned in the class. 
+##### Preliminary data processing:
+
+##### Preliminary feature engineering, feature selection, and decision- making process:
+
+##### Splitting data into testing and training sets:
+
+##### Explanation of model choice, including limitations and benefits:
+
+
+#### Dashboard:
+
+We plan to use *Tableau Public* to create and host our dashboard. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
+
+Here is the proposed layout for our dashboard. The storyboard is also visible in our [presentation](https://docs.google.com/presentation/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/edit#slide=id.p1), on slides 15 through 18.
 
 ![Dashboard Design](Images/Dashboard_Design.png)
+
+This design allows us to showcase the following skills we learned in class:
+
+|Element|Skill|Description|
+|-------|-----|-----------|
+|City Input Drop-Down Menu|Interactive Dashboard Elements|The user will be able to select a city from a list of 50 US Cities.|
+|Similar Cities List|Machine Learning - Clustering|A list of cities that fall within the same cluster as the selected city will be displayed here, with links to the city's website|
+|Housing Price Table|Machine Learning - Prediction|The table will display historical pricing growth rates as well as a directional prediction for the future based on our machine learning regression model.|
+|Charts and Graphs|Data Visualization|Displays data that is relevant to the selected city to help the user get a holistic picture of that city's housing, income, and demographic structure.|
+
+
+
+
 
 ---
