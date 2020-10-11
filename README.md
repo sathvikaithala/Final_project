@@ -42,18 +42,21 @@ The goal of our final product would be to allow a user to check information abou
 - Given a city name, what pertinent information should be understood by someone looking to move to the area?
     - Our dashboard would allow a user to see charts of demographic data, income data, housing prices, crime, and unemployment rates, and trends over time for each city. 
 
-### Our Data and Model
+### Final Project Deliverables:
 
 ##### Week 1:
-This week, we will have a provisional dataset compiled of multiple datasets we found online. We narrowed down the datasets we will use to include housing and income data from Kaggle and demographics data from various governmental websites. The list of datasets we are using is in the master branch of this repository.
 
-Our provisional machine learning model will be tied to this dataset, and will be modified as the dataset is cleaned up. In week 1, we were able to complete the initial unsupervised clustering. We will be refining the data to manage outliers during the ETL process, which will allow for cleaner cluster generation.
+This week, we have a provisional dataset compiled of multiple datasets we found online. We narrowed down the datasets we will use to include housing and income data from Kaggle and demographics data from various governmental websites. The list of datasets we are using is in the master branch of this repository.
+
+We used data from the [Census Bureau](www.google.com) and the Zillow Housing Price dataset from [Kaggle](www.google.com). In 
+
+Our provisional machine learning model is tied to this dataset, and will be modified as the dataset is cleaned up. In week 1, we were able to complete the initial unsupervised clustering. We will be refining the data to manage outliers during the ETL process, which will allow for cleaner cluster generation.
 
 ![Initial 3D PCA](ML_initial.png)
 
 
 
-### Tasks
+### Tasks (*** DELETE THIS SECTION BEFORE SUBMITTING***)
 
 ##### Dataset:
 
@@ -100,4 +103,27 @@ Markeia/Abby: Database (RDS, table structure, ERD?)
 
 ##### Week 2:
 
+##### Locations of various project deliverables:
+| Objective | Location |
+|-----------|-----------|
+|Presentation| [Google Slides](https://docs.google.com/presentation/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/edit#slide=id.p1)|
+|Exploratory Analysis code | GitHub Master Branch -  |
+|Machine Learning code | GitHub Master Branch -  |
+|Dashboard Wireframe | GitHub Master Branch - Images/Dashboard_Design.png|
+
+##### Presentation:
+Our presentation is hosted on Google Slides, and can be found [here](https://docs.google.com/presentation/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/edit#slide=id.p1).
+
+##### Database:
+
+
+##### Machine Learning:
+
+
+##### Dashboard:
+
+Here is the proposed layout for our dashboard. This design allows us to showcase various skills we learned in the class. 
+
 ![Dashboard Design](Images/Dashboard_Design.png)
+
+---
