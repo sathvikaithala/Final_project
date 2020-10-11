@@ -82,12 +82,15 @@ Here are the housing price trends of New York (top) and Los Angeles (bottom), af
 
 ![Los Angeles and New York](Images/LA_NY_Plot.png)
 
--Looking at two cities, New York and Los Angeles, we found that housing prices have increased over the years, but not steadily for all cities.
--New York’s (top graph) housing market has large increases and decreases in shorter periods of time. 
--Los Angeles’s (bottom graph) housing market shows small increases each year, but less decreases.
--When comparing this trend to unemployment rates, Los Angeles has consistently decreased, while New York has fluctuated
+- Looking at two cities, New York and Los Angeles, we found that housing prices have increased over the years, but not steadily for all cities.
 
-#### Data Sources:
+- New York’s (top graph) housing market has large increases and decreases in shorter periods of time.
+
+- Los Angeles’s (bottom graph) housing market shows small increases each year, but less decreases.
+
+- When comparing this trend to unemployment rates, Los Angeles has consistently decreased, while New York has fluctuated
+
+###### Data Sources:
 
 [Kaggle: Zillow US House Price Data](https://www.kaggle.com/paultimothymooney/zillow-house-price-data)
 
