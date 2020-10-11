@@ -10,9 +10,9 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 | Member               	| Role 	                 | Responsibilities                                                 |
 |----------------------	|---------------------   | -------------                                                    |
-| Abigail Woolf        	|  Database Lead    	   |  Manage the Database and ETL Process      	                      |
-| Markeia Brox-Chester 	|  Project Manager       |  Manage the Project Presentation, Technology, and Communication  |
-| Robert Rustia        	|  Machine Learning Lead |  Manage the Machine Learning Model and Design 	                  |
+| Markeia Brox-Chester  |  Project Manager    	 |  Manage the Project Presentation, Technology, and Communication  |
+| Abigail Woolf      	|  Database Lead         |  Manage the Database and ETL Process                             |
+| Robert Rustia        	|  Machine Learning Lead |  Manage the Machine Learning Model and Design 	                |
 | Sathvik Aithala      	|  Dashboard Lead  	     |  Manage the GitHub Repository and Presentation Dashboard         |
 
 While members are assigned specific roles, we all work together on each part of the project. 
@@ -27,9 +27,9 @@ In our shared GitHub repository, we will each be responsible for one of the four
 
 ## Selected Topic - Housing Trends
 
-Our group aims to analyze the housing market in the top US cities by population to establish trends and directionally predict future housing prices. We hope to gain valuable insights about the effect of demographics, industry, economic health, and other factors on the housing market. We selected this topic as each member in our group was interested in better understanding the housing market in the Bay Area, as well as in similar cities should we decide to apply for jobs elsewhere. 
+Overview: Housing prices in the United States (US) continue to increase as incomes rise, unemployment drops, and industries grow. Like many, our team wants to predict how housing prices will change over the years as we decide where we want to relocate long-term, which is why we selected this topic.
 
-The goal of our final product would be to allow a user to check information about certain cities that they might be considering relocating to. For example, someone who works in the Technology sector might be interested in comparing the income, housing price, and population demographics of San Francisco, Austin, and Seattle while they are applying for jobs. This could help them better understand similarities and differences between different cities and aid their decision making process. 
+Objective: By analyzing housing market data and trends between 2015-2019, the Housing Price Prediction Tool will predict whether the housing market will rise or drop in the 50 largest cities in the US. For example, someone who works in the Technology sector will be able to compare the income, housing price, and population demographics of San Francisco, Austin, and Seattle while they are applying for jobs. This could help them better understand similarities and differences between different cities and aid their decision making process. 
 
 ## Questions we would like to answer are:
 
