@@ -88,7 +88,7 @@ Here are the housing price trends of New York (top) and Los Angeles (bottom), af
 
 - Los Angeles’s (bottom graph) housing market shows small increases each year, but less decreases.
 
-- When comparing this trend to unemployment rates, Los Angeles has consistently decreased, while New York has fluctuated
+- When comparing this trend to unemployment rates, Los Angeles has consistently decreased, while New York has fluctuated.
 
 ###### Data Sources:
 
