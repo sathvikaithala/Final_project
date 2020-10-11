@@ -64,8 +64,8 @@ Our provisional machine learning model is tied to this dataset, and will be modi
 | Objective | Location |
 |-----------|-----------|
 |Presentation| [Google Slides](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing)|
-|Exploratory Analysis code | GitHub Master Branch -  |
-|Machine Learning code | GitHub Master Branch -  |
+|Exploratory Analysis code | GitHub Master Branch -  Zhvi_all_city.ipynb |
+|Machine Learning code and output | GitHub Master Branch - Resources folder |
 |Dashboard Wireframe | GitHub Master Branch - Images/Dashboard_Design.png|
 
 
@@ -78,6 +78,7 @@ Our presentation is hosted on Google Slides, and can be found [here](https://dri
 ###### Data Analysis Phase:
 Detailed descriptions of our data analysis can be found in our [presentation](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing), on slide 7. 
 
+Here are the housing price trends of New York (top) and Los Angeles (bottom), after we cleaned null values from our data. We found that the housing prices in Los Angeles to rise in a more linear and predictable fashion compared to New York, which was more sporadic.
 
 ![Los Angeles and New York](Images/LA_NY_Plot.png)
 
@@ -141,5 +142,4 @@ This design allows us to showcase the following skills we learned in class:
 *Pre-submitting checklist:
 - database descriptions
 - slide numbers correlate with final presentation slide
-- Location of each file is in the table
 
