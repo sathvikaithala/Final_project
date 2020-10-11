@@ -34,13 +34,13 @@ The goal of our final product would be to allow a user to check information abou
 ## Questions we would like to answer are:
 
 - Given the data available, can we expect housing prices to increase or decrease in the coming years?
-    - Using demographic, income, housing price, job industries, and rent/buy ratios in a city to help come to this prediction.
+    - *Using demographic, income, housing price, job industries, and rent/buy ratios in a city to help come to this prediction.
     
 - For a given city, which other US cities have similar housing and demographic data?
-    - For example, if a person is working in the tech sector and is looking for a new city to move to, they will be able to see a list of cities similar to San Francisco or Austin that may not be as obvious.
+    - *For example, if a person is working in the tech sector and is looking for a new city to move to, they will be able to see a list of cities similar to San Francisco or Austin that may not be as obvious.
     
 - Given a city name, what pertinent information should be understood by someone looking to move to the area?
-    - Our dashboard would allow a user to see charts of demographic data, income data, housing prices, crime, and unemployment rates, and trends over time for each city. 
+    - *Our dashboard would allow a user to see charts of demographic data, income data, housing prices, crime, and unemployment rates, and trends over time for each city. 
 
 ## Final Project Deliverables:
 
@@ -88,13 +88,22 @@ Detailed descriptions of our data analysis can be found in our [presentation](ht
 #### Machine Learning:
 
 ###### Preliminary data processing:
+- The first steps were to check the kind of data types were inside of the CSV file housing our data for each city. We found that our dataset had city name, state, county and average sales price for all home types inside of that city with time steps of months from 2006 to 2020. 
+
+- The next was to check for duplicates and null values in the dataframe we created. We chose to keep the first of each of the duplicates and drop all rows (cities) that had more than 10% null values. This left a little over 17,000 cities with data from the year 2016-2020.
 
 ###### Preliminary feature engineering, feature selection, and decision- making process:
+- For the null values we decided to use a KNN (K-Nearest-Neighbors) imputer to fill in the values, as a simple imputer would have used the mean or median housing price. For housing data with large variances between large cities like New York and small towns, we believed that nearest-neighbor medians would not skew the data as much as the median of the whole column. 
+
+- With the 4 years of monthly time-step data for the remaining 17,000 cities, the categorical features of the state that the cities were in was ordinal-encoded, then one-hot-encoded, and finally added into the data frame to be used as a feature with the rest of the time series data. This brought the total number of columns  from 177 to 224. 
 
 ###### Splitting data into testing and training sets:
+- We used cross-validation rather than the usual 3/4 train/test split with the CV using a 90/10 split. We then ran each of the ten blocks of data against the nine other parts sequentially. One major advantage of cross-validation is that the model is trained on a larger training set, which will hopefully improve performance. 
 
 ###### Explanation of model choice, including limitations and benefits:
+- We used RandomizedSearchCV to find a final mode from the Random Forest classifier model. From our results, the *best* model used 117 features, and used 4 n-estimators. 
 
+- We then had the final model (selected from the CV) predict the y-values, and used the predictions to compare them to the labeled y. When we checked the Real Mean Square Error, we achieved a score of 8361. As our housing price data is in dollars ($), our predictions were, on average, within $10,000 of actual values!
 
 #### Dashboard:
 
@@ -113,14 +122,11 @@ This design allows us to showcase the following skills we learned in class:
 |Housing Price Table|Machine Learning - Prediction|The table will display historical pricing growth rates as well as a directional prediction for the future based on our machine learning regression model.|
 |Charts and Graphs|Data Visualization|Displays data that is relevant to the selected city to help the user get a holistic picture of that city's housing, income, and demographic structure.|
 
-
-
-
-
 ---
 
 
 *Pre-submitting checklist:
 - links and images are functional (esp. for week 1 data sources)
 - slide numbers correlate with final presentation slide
+- Location of each file is in the table
 
