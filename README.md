@@ -78,6 +78,9 @@ Our presentation is hosted on Google Slides, and can be found [here](https://dri
 ###### Data Analysis Phase:
 Detailed descriptions of our data analysis can be found in our [presentation](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing), on slide 7. 
 
+
+![Los Angeles and New York](Images/LA_NY_Plot.png)
+
 `add some more here, just giving a brief list of things we did in analysis`
 
 Data Sources:
@@ -87,6 +90,8 @@ Data Sources:
 [Census: US City and Town Population Totals: 2010-2019](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html)
 
 [Bureau of Labor Statistics - Unemployment Rates by City](https://www.bls.gov/lau/data.htm)
+
+[Kaggle: MoveHub City Ranking Data](https://www.kaggle.com/blitzr/movehub-city-rankings)
 
 
 #### Database:
