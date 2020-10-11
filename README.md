@@ -79,7 +79,9 @@ Our presentation is hosted on Google Slides, and can be found [here](https://dri
 Detailed descriptions of our data analysis can be found in our [presentation](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing), on slide 7. 
 
 `add some more here, just giving a brief list of things we did in analysis`
+
 Data Sources:
+
 [Kaggle: Zillow US House Price Data](https://www.kaggle.com/paultimothymooney/zillow-house-price-data)
 
 [Census: US City and Town Population Totals: 2010-2019](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html)
