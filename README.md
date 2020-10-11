@@ -48,7 +48,7 @@ The goal of our final product would be to allow a user to check information abou
 
 This week, we have a provisional dataset compiled of multiple datasets we found online. We narrowed down the datasets we will use to include housing and income data from Kaggle and demographics data from various governmental websites. The list of datasets we are using is in the master branch of this repository.
 
-We used data from the [Census Bureau](www.google.com) and the Zillow Housing Price dataset from [Kaggle](www.google.com). Once we had basic census data, including populations for each city in the years 2010-2019, we created new columns to better understand some trends over time. For instance, we split the data into "first half" (2010-2015) and "second half" (2015-2019), and calculated the population change over those two periods. We then compared that to the population change over the whole decade. We were able to see which cities were consistently growing, and which cities were growing in one half of the decade and shrinking in the other half. We hoped to find similarities between cities in our clustering model.
+We used data from the [Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html) and the Zillow Housing Price dataset from [Kaggle](https://www.kaggle.com/paultimothymooney/zillow-house-price-data). Once we had basic census data, including populations for each city in the years 2010-2019, we created new columns to better understand some trends over time. For instance, we split the data into "first half" (2010-2015) and "second half" (2015-2019), and calculated the population change over those two periods. We then compared that to the population change over the whole decade. We were able to see which cities were consistently growing, and which cities were growing in one half of the decade and shrinking in the other half. We hoped to find similarities between cities in our clustering model.
 
 
 Our provisional machine learning model is tied to this dataset, and will be modified as the dataset is cleaned up. In week 1, we were able to complete the initial unsupervised clustering. We will be refining the data to manage outliers during the ETL process, which will allow for cleaner cluster generation.
@@ -126,7 +126,7 @@ This design allows us to showcase the following skills we learned in class:
 
 
 *Pre-submitting checklist:
-- links and images are functional (esp. for week 1 data sources)
+- database descriptions
 - slide numbers correlate with final presentation slide
 - Location of each file is in the table
 
