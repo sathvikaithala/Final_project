@@ -78,11 +78,11 @@ Our presentation is hosted on Google Slides, and can be found [here](https://dri
 ###### Data Analysis Phase:
 Detailed descriptions of our data analysis can be found in our [presentation](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing), on slide 7. 
 
-*add some more here, just giving a brief list of things we did in analysis*
+`add some more here, just giving a brief list of things we did in analysis`
 
 
 #### Database:
-(Filler text, modify as necessary) We added data from *sources* for each of the top 50 US Cities.
+`(Filler text, modify as necessary) We added data from *sources* for each of the top 50 US Cities.`
 
 
 #### Machine Learning:
