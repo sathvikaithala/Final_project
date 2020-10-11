@@ -6,7 +6,7 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 ## This is the GitHub repository for our group's final project. 
 
-## Group Members:
+### Group Members:
 
 | Member               	| Role 	                 | Responsibilities                                                 |
 |----------------------	|---------------------   | -------------                                                    |
@@ -17,7 +17,7 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 While members are assigned specific roles, we all work together on each part of the project. 
 
-## Communication Protocols:
+### Communication Protocols:
 
 Our group has decided to use Slack to communicate. We meet during the Tuesday and Thursday lecture sessions via Zoom, and set up additional meetings as needed. We are collecting resources on Google Drive. Cleaned and finalized resources will be added to the master branch of this GitHub repository.
 
@@ -48,7 +48,8 @@ The goal of our final product would be to allow a user to check information abou
 
 This week, we have a provisional dataset compiled of multiple datasets we found online. We narrowed down the datasets we will use to include housing and income data from Kaggle and demographics data from various governmental websites. The list of datasets we are using is in the master branch of this repository.
 
-We used data from the [Census Bureau](www.google.com) and the Zillow Housing Price dataset from [Kaggle](www.google.com). In 
+We used data from the [Census Bureau](www.google.com) and the Zillow Housing Price dataset from [Kaggle](www.google.com). Once we had basic census data, including populations for each city in the years 2010-2019, we created new columns to better understand some trends over time. For instance, we split the data into "first half" (2010-2015) and "second half" (2015-2019), and calculated the population change over those two periods. We then compared that to the population change over the whole decade. We were able to see which cities were consistently growing, and which cities were growing in one half of the decade and shrinking in the other half. We hoped to find similarities between cities in our clustering model.
+
 
 Our provisional machine learning model is tied to this dataset, and will be modified as the dataset is cleaned up. In week 1, we were able to complete the initial unsupervised clustering. We will be refining the data to manage outliers during the ETL process, which will allow for cleaner cluster generation.
 
@@ -62,18 +63,22 @@ Our provisional machine learning model is tied to this dataset, and will be modi
 
 | Objective | Location |
 |-----------|-----------|
-|Presentation| [Google Slides](https://docs.google.com/presentation/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/edit#slide=id.p1)|
+|Presentation| [Google Slides](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing)|
 |Exploratory Analysis code | GitHub Master Branch -  |
 |Machine Learning code | GitHub Master Branch -  |
 |Dashboard Wireframe | GitHub Master Branch - Images/Dashboard_Design.png|
 
 
 #### Presentation:
-Our presentation is hosted on Google Slides, and can be found [here](https://docs.google.com/presentation/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/edit#slide=id.p1).
+Our presentation is hosted on Google Slides, and can be found [here](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing).
 
-##### Data Exploration Phase:
+###### Data Exploration Phase:
+![ETL Process](Images/ETL.png)
 
-##### Data Analysis Phase:
+###### Data Analysis Phase:
+Detailed descriptions of our data analysis can be found in our [presentation](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing), on slide 7. 
+
+*add some more here, just giving a brief list of things we did in analysis*
 
 
 #### Database:
@@ -82,20 +87,20 @@ Our presentation is hosted on Google Slides, and can be found [here](https://doc
 
 #### Machine Learning:
 
-##### Preliminary data processing:
+###### Preliminary data processing:
 
-##### Preliminary feature engineering, feature selection, and decision- making process:
+###### Preliminary feature engineering, feature selection, and decision- making process:
 
-##### Splitting data into testing and training sets:
+###### Splitting data into testing and training sets:
 
-##### Explanation of model choice, including limitations and benefits:
+###### Explanation of model choice, including limitations and benefits:
 
 
 #### Dashboard:
 
 We plan to use *Tableau Public* to create and host our dashboard. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
 
-Here is the proposed layout for our dashboard. The storyboard is also visible in our [presentation](https://docs.google.com/presentation/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/edit#slide=id.p1), on slides 15 through 18.
+Here is the proposed layout for our dashboard. The storyboard is also visible in our [presentation](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing), on slides 15 through 18.
 
 ![Dashboard Design](Images/Dashboard_Design.png)
 
@@ -113,3 +118,9 @@ This design allows us to showcase the following skills we learned in class:
 
 
 ---
+
+
+*Pre-submitting checklist:
+- links and images are functional (esp. for week 1 data sources)
+- slide numbers correlate with final presentation slide
+
