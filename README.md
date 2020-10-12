@@ -102,8 +102,8 @@ Here are the housing price trends of New York (top) and Los Angeles (bottom), af
 
 
 #### Database:
-`(Filler text, modify as necessary) We added data from *sources* for each of the top 50 US Cities.`
-
+For our database, we will be using postgres by use of pgAdmin. The image below represents the tables of data that are uploaded onto the database. These relationships helped giude me in the creation of the tables on the database. Five tables were created to coincide with the five csv files we are using for our machine learning model. The postres.sql file is added to the main page of the master.
+![image](https://user-images.githubusercontent.com/65195902/95770655-99ba6e80-0c6e-11eb-80cc-07a7e67f535f.png)
 
 #### Machine Learning:
 
@@ -143,12 +143,6 @@ This design allows us to showcase the following skills we learned in class:
 |Charts and Graphs|Data Visualization|Displays data that is relevant to the selected city to help the user get a holistic picture of that city's housing, income, and demographic structure.|
 
 ---
-
-#### Database
-
-For our database, we will be using postgres by use of pgAdmin. The image below represents the tables of data that are uploaded onto the database. These relationships helped giude me in the creation of the tables on the database. I created five tables to coincide with the five csv files we are using for our machine learning model. The postres.sql file is added to the main page of the master.
-![image](https://user-images.githubusercontent.com/65195902/95770655-99ba6e80-0c6e-11eb-80cc-07a7e67f535f.png)
-
 
 - slide numbers correlate with final presentation slide
 
