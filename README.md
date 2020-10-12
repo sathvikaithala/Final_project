@@ -148,6 +148,8 @@ This design allows us to showcase the following skills we learned in class:
 
 For our database, we will be using postgres.
 ![ScreenShot](ERD.png)
+![](pics/ERD.png)
+
 
 
 *Pre-submitting checklist:
