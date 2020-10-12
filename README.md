@@ -53,7 +53,7 @@ We used data from the [Census Bureau](https://www.census.gov/data/tables/time-se
 
 Our provisional machine learning model is tied to this dataset, and will be modified as the dataset is cleaned up. In week 1, we were able to complete the initial unsupervised clustering. We will be refining the data to manage outliers during the ETL process, which will allow for cleaner cluster generation.
 
-![Initial 3D PCA](ML_initial.png)
+![Initial 3D PCA](Images/ML_initial.png)
 
 ---
 
