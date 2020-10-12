@@ -149,7 +149,7 @@ This design allows us to showcase the following skills we learned in class:
 For our database, we will be using postgres.
 ![ScreenShot](ERD.png)
 ![](pic/ERD.png)
-![](/Users/abigailwoolf/Desktop/Analysis_Projects/Final_project/pic)
+![EntityRelationalDiagram](/Users/abigailwoolf/Desktop/Analysis_Projects/Final_project/pic)
 
 
 *Pre-submitting checklist:
