@@ -147,9 +147,7 @@ This design allows us to showcase the following skills we learned in class:
 #### Database
 
 For our database, we will be using postgres.
-![ScreenShot](ERD.png)
-![](pic/ERD.png)
-![EntityRelationalDiagram](/Users/abigailwoolf/Desktop/Analysis_Projects/Final_project/pic)
+![image](https://user-images.githubusercontent.com/65195902/95770655-99ba6e80-0c6e-11eb-80cc-07a7e67f535f.png)
 
 
 *Pre-submitting checklist:
