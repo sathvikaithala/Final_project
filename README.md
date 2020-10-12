@@ -144,7 +144,9 @@ This design allows us to showcase the following skills we learned in class:
 
 ---
 
+#### Database
 
+For our database, we will be using postgres.
 *Pre-submitting checklist:
 - database descriptions
 - slide numbers correlate with final presentation slide
