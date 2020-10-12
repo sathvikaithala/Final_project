@@ -146,10 +146,9 @@ This design allows us to showcase the following skills we learned in class:
 
 #### Database
 
-For our database, we will be using postgres by use of pgAdmin. The image below represents the tables of data that are uploaded onto the database. These relationships helped giude me in the creation of the tables on the database. I created six tables to coincide with the six csv files we are using for our machine learning model. The postres.sql file is added to the main page of the master.
+For our database, we will be using postgres by use of pgAdmin. The image below represents the tables of data that are uploaded onto the database. These relationships helped giude me in the creation of the tables on the database. I created five tables to coincide with the five csv files we are using for our machine learning model. The postres.sql file is added to the main page of the master.
 ![image](https://user-images.githubusercontent.com/65195902/95770655-99ba6e80-0c6e-11eb-80cc-07a7e67f535f.png)
 
 
-- database descriptions
 - slide numbers correlate with final presentation slide
 
