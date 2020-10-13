@@ -143,7 +143,5 @@ This design allows us to showcase the following skills we learned in class:
 |Housing Price Table|Machine Learning - Prediction|The table will display historical pricing growth rates as well as a directional prediction for the future based on our machine learning regression model.|
 |Charts and Graphs|Data Visualization|Displays data that is relevant to the selected city to help the user get a holistic picture of that city's housing, income, and demographic structure.|
 
----
 
-- slide numbers correlate with final presentation slide
 
