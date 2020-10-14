@@ -17,12 +17,6 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 While members are assigned specific roles, we all work together on each part of the project. 
 
-### Communication Protocols:
-
-Our group has decided to use Slack to communicate. We meet during the Tuesday and Thursday lecture sessions via Zoom, and set up additional meetings as needed. We are collecting resources on Google Drive. Cleaned and finalized resources will be added to the master branch of this GitHub repository.
-
-In our shared GitHub repository, we will each be responsible for one of the four major branches. 
-
 ---
 
 ## Selected Topic - Housing Trends
