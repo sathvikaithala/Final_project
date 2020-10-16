@@ -154,17 +154,25 @@ TO DO LIST FOR SEGMENT 3 (Notes taken 10/13):
     - Presentation:
         - Technologies, languages, tools, and algorithms used throughout the project
         - discuss/update any changes to analysis/exploration process
+        - start website for hosting tableau public embed link
 
 - Robert:
     - Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
     - Description of how they have trained the model thus far, and any additional training that will take place
     - Description of current accuracy score
     - try new model (timestamp data-based) - get RMSE <8k
+    - organize github repo folders
+        - Images
+        - Resources
+        - ML
+        - ETL
+        - Database
+        - Dashboard
 
 - Sathvik:
     - Dashboard
-        - Get Tableau dashboard started
-        - connect to database
+        - Get Tableau dashboard started - done
+        - connect to database - done
         - have at least the interactive element + initial images on dashboard
         - publish to Tableau public
         - Tableau Story - at least start blurbs for this
