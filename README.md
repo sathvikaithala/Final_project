@@ -1,4 +1,4 @@
-# Housing Trends in the Top 50 US Cities - 2019 Population 
+# Housing Trends in the Top 50 US Cities
 
 UC Berkeley Extension Data Analytics Bootcamp Final Project
 
