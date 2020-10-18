@@ -36,22 +36,6 @@ Objective: By analyzing housing market data and trends between 2015-2019, the Ho
 - Given a city name, what pertinent information should be understood by someone looking to move to the area?
     - *Our dashboard would allow a user to see charts of demographic data, income data, housing prices, crime, and unemployment rates, and trends over time for each city. 
 
-## Final Project Deliverables:
-
-### Week 1:
-
-This week, we have a provisional dataset compiled of multiple datasets we found online. We narrowed down the datasets we will use to include housing and income data from Kaggle and demographics data from various governmental websites. The list of datasets we are using is in the master branch of this repository.
-
-We used data from the [Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html) and the Zillow Housing Price dataset from [Kaggle](https://www.kaggle.com/paultimothymooney/zillow-house-price-data). Once we had basic census data, including populations for each city in the years 2010-2019, we created new columns to better understand some trends over time. For instance, we split the data into "first half" (2010-2015) and "second half" (2015-2019), and calculated the population change over those two periods. We then compared that to the population change over the whole decade. We were able to see which cities were consistently growing, and which cities were growing in one half of the decade and shrinking in the other half. We hoped to find similarities between cities in our clustering model.
-
-
-Our provisional machine learning model is tied to this dataset, and will be modified as the dataset is cleaned up. In week 1, we were able to complete the initial unsupervised clustering. We will be refining the data to manage outliers during the ETL process, which will allow for cleaner cluster generation.
-
-![Initial 3D PCA](Images/ML_initial.png)
-
----
-
-### Week 2:
 
 #### Locations of various project deliverables:
 
@@ -107,6 +91,10 @@ Here are the housing price trends of New York (top) and Los Angeles (bottom), af
 
 - The next was to check for duplicates and null values in the dataframe we created. We chose to keep the first of each of the duplicates and drop all rows (cities) that had more than 10% null values. This left a little over 17,000 cities with data from the year 2016-2020.
 
+In the first week, we were able to complete the initial unsupervised clustering. We attained the following 3D Pricincipal Cluster Analysis Plot from this data.
+
+![Initial 3D PCA](Images/ML_initial.png)
+
 ###### Preliminary feature engineering, feature selection, and decision- making process:
 - For the null values we decided to use a KNN (K-Nearest-Neighbors) imputer to fill in the values, as a simple imputer would have used the mean or median housing price. For housing data with large variances between large cities like New York and small towns, we believed that nearest-neighbor medians would not skew the data as much as the median of the whole column. 
 
@@ -122,7 +110,7 @@ Here are the housing price trends of New York (top) and Los Angeles (bottom), af
 
 #### Dashboard:
 
-We plan to use *Tableau Public* to create and host our dashboard. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
+We plan to use *Tableau* to create and host our dashboard. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
 
 Here is the proposed layout for our dashboard. The storyboard is also visible in our [presentation](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing), on slides 15 through 18.
 
@@ -137,6 +125,7 @@ This design allows us to showcase the following skills we learned in class:
 |Housing Price Table|Machine Learning - Prediction|The table will display historical pricing growth rates as well as a directional prediction for the future based on our machine learning regression model.|
 |Charts and Graphs|Data Visualization|Displays data that is relevant to the selected city to help the user get a holistic picture of that city's housing, income, and demographic structure.|
 
+Our dashboard can be found [here](), or embedded on this [website]() we have created to present our final project.
 
 
 
@@ -178,7 +167,7 @@ TO DO LIST FOR SEGMENT 3 (Notes taken 10/13):
         - Tableau Story - at least start blurbs for this
     - GitHub:
         - remove communication protocols - done
-        - remove "week 1", "week 2", etc and rewrite cohesively
+        - remove "week 1", "week 2", etc and rewrite cohesively - done
         - make sure outline looks good
         
 
