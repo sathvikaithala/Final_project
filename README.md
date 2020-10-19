@@ -137,39 +137,5 @@ Our dashboard can be found [here](https://public.tableau.com/shared/JFDXTJJ9R?:d
 
 
 
----
-
-TO DO LIST FOR SEGMENT 3 (Notes taken 10/13):
-
-
-- Abigail:
-    - host database on cloud
-    - confirm if both datasets we're using have the cities in the same order (same index)
-
-- Robert:
-    - Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
-    - Description of how they have trained the model thus far, and any additional training that will take place
-    - Description of current accuracy score
-    - try new model (timestamp data-based) - get RMSE <8k
-    - organize github repo folders
-        - Images
-        - Resources
-        - ML
-        - ETL
-        - Database
-        - Dashboard
-
-- Sathvik:
-    - Dashboard
-        - Get Tableau dashboard started - done
-        - connect to database - done
-        - have at least the interactive element + initial images on dashboard
-        - publish to Tableau public
-        - Tableau Story - at least start blurbs for this
-    - GitHub:
-        - remove communication protocols - done
-        - remove "week 1", "week 2", etc and rewrite cohesively - done
-        - make sure outline looks good
-        
 
 
