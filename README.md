@@ -146,12 +146,6 @@ TO DO LIST FOR SEGMENT 3 (Notes taken 10/13):
     - host database on cloud
     - confirm if both datasets we're using have the cities in the same order (same index)
 
-- Markeia:
-    - Presentation:
-        - Technologies, languages, tools, and algorithms used throughout the project
-        - discuss/update any changes to analysis/exploration process
-        - start website for hosting tableau public embed link
-
 - Robert:
     - Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
     - Description of how they have trained the model thus far, and any additional training that will take place
