@@ -133,6 +133,8 @@ This design allows us to showcase the following skills we learned in class:
 #### Dashboard:
 Our dashboard can be found [here](https://public.tableau.com/shared/JFDXTJJ9R?:display_count=y&:origin=viz_share_link), or embedded on this [website](https://markeiabc.github.io/Housing_Data_Website/) we have created to present our final project.
 
+![Image of Dashboard](Images/DashboardImage.png)
+
 
 
 ---
