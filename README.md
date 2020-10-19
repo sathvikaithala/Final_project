@@ -113,9 +113,9 @@ In the first week, we were able to complete the initial unsupervised clustering.
 
 ###### Changes Made Throughout the Process:
 
-#### Dashboard:
+#### Dashboard Process:
 
-We plan to use *Tableau* to create and host our dashboard. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
+We used *Tableau* to create and host our dashboard. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
 
 Here is the proposed layout for our dashboard. The storyboard is also visible in our [presentation](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing), on slides 15 through 18.
 
@@ -130,12 +130,12 @@ This design allows us to showcase the following skills we learned in class:
 |Housing Price Table|Machine Learning - Prediction|The table will display historical pricing growth rates as well as a directional prediction for the future based on our machine learning regression model.|
 |Charts and Graphs|Data Visualization|Displays data that is relevant to the selected city to help the user get a holistic picture of that city's housing, income, and demographic structure.|
 
-Our dashboard can be found [here](), or embedded on this [website](https://markeiabc.github.io/Housing_Data_Website/) we have created to present our final project.
+#### Dashboard:
+Our dashboard can be found [here](https://public.tableau.com/shared/JFDXTJJ9R?:display_count=y&:origin=viz_share_link), or embedded on this [website](https://markeiabc.github.io/Housing_Data_Website/) we have created to present our final project.
 
 
 
 ---
-@Graders, please note that the communication protocols were removed after Segment 2 was submitted, just in case it is graded later than 10/11.
 
 TO DO LIST FOR SEGMENT 3 (Notes taken 10/13):
 
