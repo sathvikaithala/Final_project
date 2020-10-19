@@ -51,7 +51,7 @@ Objective: By analyzing housing market data and trends between 2015-2019, the Ho
 Our presentation is hosted on Google Slides, and can be found [here](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing).
 
 ###### Technologies & Tools Used:
-![Technologies & Tools Used](Images/Screen Shot 2020-10-18 at 7.37.06 PM.png)
+![Technologies Used](Images/Technologies.png)
 
 ###### Data Exploration Phase:
 ![ETL Process](Images/ETL.png)
