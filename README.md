@@ -130,7 +130,7 @@ This design allows us to showcase the following skills we learned in class:
 |Housing Price Table|Machine Learning - Prediction|The table will display historical pricing growth rates as well as a directional prediction for the future based on our machine learning regression model.|
 |Charts and Graphs|Data Visualization|Displays data that is relevant to the selected city to help the user get a holistic picture of that city's housing, income, and demographic structure.|
 
-Our dashboard can be found [here](), or embedded on this [website]() we have created to present our final project.
+Our dashboard can be found [here](), or embedded on this [website](https://markeiabc.github.io/Housing_Data_Website/) we have created to present our final project.
 
 
 
