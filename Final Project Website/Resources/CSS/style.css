@@ -1,0 +1,32 @@
+body {
+    color: #f7f7f7;
+  }
+  .jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: rgb(129, 66, 58);
+    background-size: 100% 100%;
+    text-align: center;
+  }
+    .row {
+        margin: 0px;
+      }
+      
+      .one {
+        background-color: lightgrey;
+      }
+      
+      .two {
+        background-color: lightgrey;
+      }
+      
+      .three {
+        background-color: lightgrey;
+      }
+      
+      .four {
+        background-color: lightgrey;
+      }
+  
