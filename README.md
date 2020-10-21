@@ -21,7 +21,7 @@ While members are assigned specific roles, we all work together on each part of 
 
 ## Selected Topic - Housing Trends
 
-Overview: Housing prices in the United States (US) continue to increase as incomes rise, unemployment drops, and industries grow. Like many, our team wants to predict how housing prices will change over the years as we decide where we want to relocate long-term, which is why we selected this topic.
+Overview: Housing prices in the United States (US) continue to increase as incomes rise, unemployment drops, and industries grow. Our team selected this topic in order to predict how housing prices will change over the years as we decide where we want to relocate long-term.
 
 Objective: By analyzing housing market data and trends between 2015-2019, the Housing Price Prediction Tool will predict whether the housing market will rise or drop in the 50 largest cities in the US. For example, someone who works in the Technology sector will be able to compare the income, housing price, and population demographics of San Francisco, Austin, and Seattle while they are applying for jobs. This could help them better understand similarities and differences between different cities and aid their decision making process. 
 
@@ -79,6 +79,8 @@ Here are the housing price trends of New York (top) and Los Angeles (bottom), af
 [Bureau of Labor Statistics - Unemployment Rates by City](https://www.bls.gov/lau/data.htm)
 
 [Kaggle: MoveHub City Ranking Data](https://www.kaggle.com/blitzr/movehub-city-rankings)
+
+[Bureau of Labor Statistics: Concentrations of Industry] (https://towardsdatascience.com/employment-growth-trends-by-industry-and-city-a-data-study-5002bf20692)
 
 
 #### Database:
