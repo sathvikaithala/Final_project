@@ -84,9 +84,9 @@ Here are the housing price trends of New York (top) and Los Angeles (bottom), af
 
 
 #### Database:
-- For our database, we will be using postgres by use of pgAdmin. The image below represents the tables of data that are uploaded onto the database. These relationships helped giude me in the creation of the tables on the database. Five tables were created to coincide with the five csv files we are using for our machine learning model. The postres.sql file is added to the main page of the master.
+- For our database, we will be using postgres by use of pgAdmin and we are also hosting our raw data in an AWS S3 bucket. This enables anyone with the access codes to work the project data. The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database. There are three main tables with data that were used to build and perform the machine learning model. 
 
-- The most common and obvious connect between all of our datasets is the City column. 
+- The most common and obvious connect between all of our datasets is the State column. 
 ![image](https://user-images.githubusercontent.com/65195902/95770655-99ba6e80-0c6e-11eb-80cc-07a7e67f535f.png)
 
 #### Machine Learning:
