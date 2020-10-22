@@ -80,7 +80,7 @@ Here are the housing price trends of New York (top) and Los Angeles (bottom), af
 
 [Kaggle: MoveHub City Ranking Data](https://www.kaggle.com/blitzr/movehub-city-rankings)
 
-[Bureau of Labor Statistics: Concentrations of Industry] (https://towardsdatascience.com/employment-growth-trends-by-industry-and-city-a-data-study-5002bf20692)
+[Bureau of Labor Statistics: Concentrations of Industry](https://towardsdatascience.com/employment-growth-trends-by-industry-and-city-a-data-study-5002bf20692)
 
 
 #### Database:
