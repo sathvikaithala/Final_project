@@ -106,12 +106,16 @@ In the first week, we were able to complete the initial unsupervised clustering.
 - With the 4 years of monthly time-step data for the remaining 17,000 cities, the categorical features of the state that the cities were in was ordinal-encoded, then one-hot-encoded, and finally added into the data frame to be used as a feature with the rest of the time series data. This brought the total number of columns  from 177 to 224. 
 
 ###### Splitting Data Into Testing & Training sets:
-- We used cross-validation rather than the usual 3/4 train/test split with the CV using a 90/10 split. We then ran each of the ten blocks of data against the nine other parts sequentially. One major advantage of cross-validation is that the model is trained on a larger training set, which will hopefully improve performance. 
-
+<insert lin reg stuff here>
+    
 ###### Explanation of Model Choice (Including Limitations & Benefits):
-- We used RandomizedSearchCV to find a final mode from the Random Forest classifier model. From our results, the *best* model used 117 features, and used 4 n-estimators. 
 
-- We then had the final model (selected from the CV) predict the y-values, and used the predictions to compare them to the labeled y. When we checked the Real Mean Square Error, we achieved a score of 8361. As our housing price data is in dollars ($), our predictions were, on average, within $10,000 of actual values!
+Here are the models we tried, along with results we got:
+![ML Trials](Images/ML_Trials.png)
+
+<insert lin reg stuff here>
+
+
 
 #### Dashboard:
 
