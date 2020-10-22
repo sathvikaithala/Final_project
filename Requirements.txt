@@ -1,0 +1,42 @@
+Requirements for the UC Berkeley Data Analytics Boot Camp Final Project:
+
+Throughout the six-month boot camp, we have learned many data analytics skills and tools. The goal of this final project is to showcase these tools using a real-world project.
+
+The project is broken into four segments, with each having a deliverable due on a weekly basis. The breakdown of each segment can be found in the "Final_Project_Rubric.pdf" file in the GitHub Repository. 
+
+
+
+Requirements for this project are:
+
+- Each member of the group leads a portion of the project. There will be a Project Manager, Database Lead, Machine Learning Lead, and a Dashboard Lead.
+
+- The project will be centered around machine learning methods learned in the class. However, in preparation for the machine learning, extensive ETL and data pre-processing procedures will be handled.
+
+- A GitHub Repository will house the working files and final write-up for this project.
+
+- All associated code will be neatly commented and organized within the GitHub repository.
+
+- The GitHub ReadMe will include a detailed walk-through of the steps taken throughout this project. It will include information on the ETL process, descriptions of the machine learning methods used, and links to both the dashboard and final presentation.
+
+- The group will create a presentation that will be showcased during the last class (on October 22, 2020). 
+
+- The project will include a database that uses various sources to gather information into one location. The sources will be listed in the GitHub ReadMe.
+
+- The database will be hosted in the cloud so that all members can access it for both the machine learning process and the dashboard creation. 
+
+- The database will require at least one connection string, one join, and at least two tables. 
+
+- For the machine learning model, the following will be provided: a description of data pre-processing, feature engineering and selection, decision making process, model choice, and final accuracy score.
+
+- The dashboard will include at least one interactive element, along with data from the database.
+
+- The final presentation will be hosted on Google Slides and linked to in the GitHub repository. It will include slides for each team member to present, that will provide the rest of the class with a walkthrough of the steps taken to create the final product.
+
+
+
+Group Members and Roles: 
+
+- Abigail Woolf: Database Lead
+- Markeia Brox-Chester: Project Management Lead
+- Robert Rustia: Machine Learning Lead
+- Sathvik Aithala: Dashboard Lead
