@@ -44,7 +44,7 @@ Objective: By analyzing housing market data and trends between 2015-2019, the Ho
 |Presentation| [Google Slides](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing)|
 |Exploratory Analysis code | GitHub Master Branch -  Zhvi_all_city.ipynb |
 |Machine Learning code and output | GitHub Master Branch - Resources folder |
-|Dashboard Wireframe | GitHub Master Branch - Images/Dashboard_Design.png|
+
 
 
 #### Presentation:
@@ -113,27 +113,11 @@ In the first week, we were able to complete the initial unsupervised clustering.
 
 - We then had the final model (selected from the CV) predict the y-values, and used the predictions to compare them to the labeled y. When we checked the Real Mean Square Error, we achieved a score of 8361. As our housing price data is in dollars ($), our predictions were, on average, within $10,000 of actual values!
 
-###### Changes Made Throughout the Process:
-
-#### Dashboard Process:
+#### Dashboard:
 
 We used *Tableau* to create and host our dashboard. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
 
-Here is the proposed layout for our dashboard. The storyboard is also visible in our [presentation](https://drive.google.com/file/d/10OQSpUDdGAvfv400hQJ3XEkmrohSWTQC/view?usp=sharing), on slides 15 through 18.
-
-![Dashboard Design](Images/Dashboard_Design.png)
-
-This design allows us to showcase the following skills we learned in class:
-
-|Element|Skill|Description|
-|-------|-----|-----------|
-|City Input Drop-Down Menu|Interactive Dashboard Elements|The user will be able to select a city from a list of 50 US Cities.|
-|Similar Cities List|Machine Learning - Clustering|A list of cities that fall within the same cluster as the selected city will be displayed here, with links to the city's website|
-|Housing Price Table|Machine Learning - Prediction|The table will display historical pricing growth rates as well as a directional prediction for the future based on our machine learning regression model.|
-|Charts and Graphs|Data Visualization|Displays data that is relevant to the selected city to help the user get a holistic picture of that city's housing, income, and demographic structure.|
-
-#### Dashboard:
-Our dashboard can be found [here](https://public.tableau.com/shared/JFDXTJJ9R?:display_count=y&:origin=viz_share_link), or embedded on this [website](https://markeiabc.github.io/Housing_Data_Website/) we have created to present our final project.
+Our dashboard can be found [here](https://public.tableau.com/views/HousingPrices_16030731374470/Dashboard?:language=en&:display_count=y&publish=yes&:toolbar=n&:origin=viz_share_link), or embedded on this [website](https://markeiabc.github.io/Housing_Data_Website/) we have created to present our final project.
 
 ![Image of Dashboard](Images/DashboardImage.png)
 
