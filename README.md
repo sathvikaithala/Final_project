@@ -129,7 +129,7 @@ This includes the Gradient BoostingRegressor which is built to optimize validati
 
 We used *Tableau* to create and host our dashboard. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
 
-Our dashboard can be found [here](https://public.tableau.com/views/HousingPrices_16030731374470/Dashboard?:language=en&:display_count=y&publish=yes&:toolbar=n&:origin=viz_share_link), or embedded on this [website](https://markeiabc.github.io/Housing_Data_Website/) we have created to present our final project.
+Our dashboard can be found [here](https://public.tableau.com/profile/sathvik.aithala#!/vizhome/HousingPrices_16030731374470/Dashboard), or embedded on this [website](https://markeiabc.github.io/Housing_Data_Website/) we have created to present our final project.
 
 ![Image of Dashboard](Images/DashboardImage.png)
 
