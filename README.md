@@ -113,7 +113,14 @@ In the first week, we were able to complete the initial unsupervised clustering.
 Here are the models we tried, along with results we got:
 ![ML Trials](Images/ML_Trials.png)
 
-<insert lin reg stuff here>
+The Linear Regression model outperformed the closest model by 40x RMSE. Since it was the most simple solution, we tried a few other models as well to see if we could outperform it.
+
+
+The second closest was random forest regression that was placed through a stochastic cross validation with a RMSE of $7650.22. 
+
+This model is over 3x more accurate than the other random forest models attempted 
+
+This includes the Gradient BoostingRegressor which is built to optimize validation error, while also stopping training trees before overfitting occurs. 
 
 
 
