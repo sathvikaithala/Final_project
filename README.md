@@ -106,8 +106,9 @@ In the first week, we were able to complete the initial unsupervised clustering.
 - With the 4 years of monthly time-step data for the remaining 17,000 cities, the categorical features of the state that the cities were in was ordinal-encoded, then one-hot-encoded, and finally added into the data frame to be used as a feature with the rest of the time series data. This brought the total number of columns  from 177 to 224. 
 
 ###### Splitting Data Into Testing & Training sets:
-<insert lin reg stuff here>
-    
+For our final linear regression model, we used an 80/20 testing/training split to achieve our results. The testing/training splits we tried in other methods are shown in the table below.
+
+
 ###### Explanation of Model Choice (Including Limitations & Benefits):
 
 Here are the models we tried, along with results we got:
