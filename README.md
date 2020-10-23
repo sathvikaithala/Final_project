@@ -134,6 +134,14 @@ Our dashboard can be found [here](https://public.tableau.com/views/HousingPrices
 ![Image of Dashboard](Images/DashboardImage.png)
 
 
+#### Recommendations for Future Analysis:
+- We would explore more machine learning models and fine tune them to try and get a better fitting model.
+- We would try a Recurrent Neural Net model with timestamp data.
+
+
+#### Improvements We Would Have Made:
+One major area where we feel we could have improved our project is by taking more time to discover more data sets and factors that may influence housing prices. There are likely many variables we could not find data on handily, and that would probably be the best place to improve our project.
+
 
 
 
