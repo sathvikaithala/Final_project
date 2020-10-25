@@ -10,10 +10,10 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 | Member               	| Role 	                 | Responsibilities                                                 |
 |----------------------	|---------------------   | -------------                                                    |
-| Markeia Brox-Chester  |  Project Manager    	 |  Manage the Project Presentation, Technology, and Communication  |
-| Abigail Woolf      	|  Database Lead         |  Manage the Database and ETL Process                             |
-| Robert Rustia        	|  Machine Learning Lead |  Manage the Machine Learning Model and Design 	                |
-| Sathvik Aithala      	|  Dashboard Lead  	     |  Manage the GitHub Repository and Presentation Dashboard         |
+| [Markeia Brox-Chester](https://github.com/markeiabc)|  Project Manager    	 |  Manage the Project Presentation, Technology, and Communication  |
+| [Abigail Woolf](https://github.com/Abigail-Woolf)    	|  Database Lead         |  Manage the Database and ETL Process                             |
+| [Robert Rustia](https://github.com/misterrustia)       	|  Machine Learning Lead |  Manage the Machine Learning Model and Design 	                |
+| [Sathvik Aithala](https://github.com/sathvikaithala)    	|  Dashboard Lead  	     |  Manage the GitHub Repository and Presentation Dashboard         |
 
 While members are assigned specific roles, we all work together on each part of the project. 
 
