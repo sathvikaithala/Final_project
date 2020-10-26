@@ -4,7 +4,7 @@ UC Berkeley Extension Data Analytics Bootcamp Final Project
 
 ---
 
-## This is the GitHub repository for our group's final project. 
+## This is the GitHub repository for our Boot Camp group's final project. 
 
 ### Group Members:
 
@@ -25,7 +25,7 @@ Overview: Housing prices in the United States (US) continue to increase as incom
 
 Objective: By analyzing housing market data and trends between 2015-2019, the Housing Price Prediction Tool will predict whether the housing market will rise or drop in the 50 largest cities in the US. For example, someone who works in the Technology sector will be able to compare the income, housing price, and population demographics of San Francisco, Austin, and Seattle while they are applying for jobs. This could help them better understand similarities and differences between different cities and aid their decision making process. 
 
-## Questions we would like to answer are:
+## Questions We Would Like to Answer:
 
 - Given the data available, can we expect housing prices to increase or decrease in the coming years?
     - *Using demographic, income, housing price, job industries, and rent/buy ratios in a city to help come to this prediction.
@@ -37,7 +37,7 @@ Objective: By analyzing housing market data and trends between 2015-2019, the Ho
     - *Our dashboard would allow a user to see charts of demographic data, income data, housing prices, crime, and unemployment rates, and trends over time for each city. 
 
 
-#### Locations of various project deliverables:
+#### Locations of Project Deliverables:
 
 | Objective | Location |
 |-----------|-----------|
