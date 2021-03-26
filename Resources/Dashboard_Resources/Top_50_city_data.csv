@@ -1,0 +1,54 @@
+﻿Population Rank,City,State,UE_2010,UE_2011,UE_2012,UE_2013,UE_2014,UE_2015,UE_2016,UE_2017,UE_2018,UE_2019,Industry Sector,% Areas workforce in sector vs national avg,% Areas workforce in sector,Total Education Score (by metro area),‘Educational Attainment’ Rank (by metro area),‘Quality of Education & Attainment Gap’ Rank (by metro area),Cappuccino,Cinema,Wine,Gasoline,Avg Rent,Avg Disposable Income,Movehub Rating,Purchase Power,Health Care,Pollution,Quality of Life,Crime Rating
+0,New York, New York,9.54,9.08,9.33,8.83,7.26,5.7,5.2,4.63,4.21,3.95,Health Care and Social Assistance,0.161,0.189,63.19,30,19,2.58,8.5,9.81,0.69,3268.84,2530.09,90.53,55.56,51.39,12.01,61.94,47.33
+1,Los Angeles, California,13.2,12.86,11.53,10.31,8.74,7.01,5.25,4.79,4.63,4.46,Health Care and Social Assistance,-0.16,0.137,49.22,98,24,2.62,7.52,7.85,0.69,1732.49,2085.69,86.86,62.75,68.61,75.2,62.82,65.74
+2,Houston, Texas,7.96,7.58,6.42,5.88,4.78,4.28,5.04,4.91,4.27,3.73,Health Care and Social Assistance,-0.193,0.131,49.82,94,33,2.29,6.54,6.53,0.63,1340.23,2124.75,85.24,71.96,79.44,65.21,74.08,61.72
+3,Chicago, Illinois,11.16,10.85,10.01,10.01,7.84,6.58,6.37,5.36,4.35,3.97,Health Care and Social Assistance,-0.12,0.143,60.99,31,49,2.45,7.85,7.85,0.71,1634.42,2111.35,83.01,66.77,62.92,22.98,80.71,54.52
+4,San Antonio, Texas,7.05,7.02,6.18,5.68,4.54,3.67,3.69,3.5,3.29,3.06,Health Care and Social Assistance,-0.067,0.152,45.69,114,26,,,,,,,,,,,,
+5,Philadelphia, Pennsylvania,10.58,10.68,10.89,10.28,8.1,7.11,6.74,6.19,5.49,5.55,Health Care and Social Assistance,0.184,0.193,59.48,33,88,,,,,,,,,,,,
+6,Phoenix, Arizona,10.55,9.13,7.81,6.88,6.09,5.36,4.72,4.32,4.18,4.12,Health Care and Social Assistance,-0.107,0.145,51.5,82,77,,,,,,,,,,,,
+7,Las Vegas, Nevada,14.28,13.66,11.72,10.01,8.2,7.03,6.03,5.45,4.88,4.18,Accommodation and Food Services,1.73,0.313,41.03,127,30,2.12,7.85,7.85,0.65,604.74,2158.09,84.88,80.46,66.52,59.73,60.5,70.57
+8,San Diego, California,10.26,9.83,8.69,7.45,6.12,4.95,4.57,3.89,3.27,3.04,Accommodation and Food Services,0.236,0.141,67.15,26,2,,,,,,,,,,,,
+9,Dallas, Texas,8.48,8.05,7.03,6.45,5.26,4.14,3.97,3.92,3.77,3.43,Health Care and Social Assistance,-0.228,0.126,52.76,76,55,2.62,6.54,6.54,0.59,1405.6,2116.9,84.71,76.18,69.99,83.89,80.56,59.9
+10,Austin, Texas,6.16,5.83,5.04,4.64,3.71,2.99,3.09,3,2.75,2.48,Accommodation and Food Services,0.203,0.137,72.94,16,3,2.29,5.56,7.85,0.61,1372.91,2105.14,84.86,69.22,73.61,28.84,86.51,42.5
+11,San Jose, California,11.57,10.34,8.78,7.22,5.76,4.63,3.93,3.33,2.78,2.62,"Professional, Scientific, and Technical Services",0.82,0.13,81.9,3,4,,,,,,,,,,,,
+12,Jacksonville, Florida,11.13,10.03,8.53,7.28,6.56,5.86,4.96,4.34,3.7,3.32,Health Care and Social Assistance,-0.075,0.151,52.45,80,62,,,,,,,,,,,,
+13,Indianapolis, Indiana,10.62,9.91,9.27,8.53,6.53,5.1,4.48,3.67,3.57,3.29,Health Care and Social Assistance,-0.047,0.155,52.99,63,107,2.6,5.56,5.88,0.65,817.21,2056.76,84.52,80.72,36.66,82.08,77.13,30.21
+14,San Francisco, California,8.92,8.05,6.78,5.45,4.36,3.65,3.28,2.93,2.4,2.18,Health Care and Social Assistance,-0.21,0.129,79.48,5,21,,,,,,,,,,,,
+15,Charlotte, North Carolina,9.11,8.5,7.58,6.6,5.23,4.92,4.85,4.38,3.88,3.68,Health Care and Social Assistance,-0.224,0.126,56.49,61,34,2.15,5.23,7.19,0.6,915.28,2073.1,84.46,77.18,72.08,67.05,84.39,30.21
+16,Fort Worth, Texas,7.94,7.46,6.45,5.99,4.93,4.14,4.18,3.88,3.62,3.4,Health Care and Social Assistance,-0.228,0.126,52.76,76,55,,,,,,,,,,,,
+17,Tucson, Arizona,10.51,9.09,8.01,7.18,6.39,5.75,5.18,4.67,4.58,4.65,Health Care and Social Assistance,0.185,0.193,54.26,51,134,,,,,,,,,,,,
+18,Columbus, Ohio,8.91,7.82,6.52,6.52,4.89,4.14,4.23,4.15,3.88,3.58,Health Care and Social Assistance,0.019,0.166,58.1,40,110,,,,,,,,,,,,
+19,Louisville, Kentucky,10.03,9.47,7.96,7.48,6.02,4.78,4.43,4.43,4.04,4.01,Health Care and Social Assistance,-0.076,0.15,48.67,88,108,,,,,,,,,,,,
+20,Orlando ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,El Paso, Texas,8.53,8.86,7.96,7.34,5.9,4.71,4.7,4.43,4.08,3.68,,,,33.57,139,15,,,,,,,,,,,,
+22,Detroit, Michigan,24.73,21.05,19.23,18.91,16.03,11.68,10.71,9.58,8.94,8.75,Health Care and Social Assistance,-0.058,0.153,51.35,66,140,1.96,5.56,7.85,0.67,632.19,1895.93,70.63,73.81,63.05,83.45,50.99,76.69
+23,Denver, Colorado,9.12,8.6,7.84,6.65,4.82,3.72,3.1,2.73,3.05,2.68,Health Care and Social Assistance,-0.2,0.13,69.45,11,76,,,,,,,,,,,,
+24,Seattle, Washington,8.05,7.08,5.72,4.57,4.18,3.78,3.53,3.16,2.88,2.52,Health Care and Social Assistance,-0.15,0.138,73.76,10,16,2.45,7.11,7.52,0.66,1634.42,2373.83,85.38,78.46,75.46,32.9,84.1,42.03
+25,Memphis, Tennessee,10.9,10.63,9.63,9.8,8.39,7.05,5.83,4.83,4.64,4.45,Health Care and Social Assistance,-0.05,0.155,44.75,105,116,,,,,,,,,,,,
+26,Boston, Massachusetts,7.5,6.52,6.03,6.14,5.23,4.36,3.53,3.37,2.98,2.57,Health Care and Social Assistance,0.124,0.183,76.29,6,97,2.62,7.85,7.85,0.65,2288.19,2451.63,82.2,59.28,78.04,61.77,82.81,40.69
+27,Washington, District of Columbia,9.42,10.16,9.05,8.48,7.78,6.88,6.1,6.07,5.69,5.49,"Professional, Scientific, and Technical Services",1.883,0.206,81.7,2,32,,,,,,,,,,,,
+28,Portland, Oregon,9.36,8.08,7.35,6.53,5.71,4.74,4.11,3.58,3.54,3.23,Health Care and Social Assistance,-0.077,0.15,67.96,19,52,,,,,,,,,,,,
+29,Nashville, Tennessee,8.15,7.53,6.19,5.93,5.03,4.39,3.62,2.84,2.66,2.52,Health Care and Social Assistance,-0.023,0.159,56.12,60,67,3.84,12,13.5,0.65,2257.14,3089.75,80.61,80.3,60.3,0,80.5,25.5
+30,Sacramento, California,13.28,12.77,11.08,9.35,7.69,6.35,5.53,4.75,3.96,3.73,Health Care and Social Assistance,0.027,0.167,57.68,55,38,,,,,,,,,,,,
+31,Baltimore, Maryland,11.2,10.63,10.17,9.68,8.55,7.53,6.63,6.28,5.74,5.09,Health Care and Social Assistance,0.066,0.174,65.06,18,122,2.12,6.54,8.17,0.65,1372.91,2284.92,84.28,78.78,72.08,77.98,82,58.85
+32,Milwaukee, Wisconsin,11.92,11.1,10.31,10.11,7.93,6.58,5.58,4.53,4.03,4.47,Health Care and Social Assistance,0.04,0.169,56.12,45,137,,,,,,,,,,,,
+33,Fresno, California,18.01,17.83,16.33,14.33,12.55,11.06,7.63,6.78,5.94,5.7,,,,28.79,144,31,,,,,,,,,,,,
+34,Omaha, Nebraska,5.04,4.84,4.46,4.08,3.51,3.18,3.23,3.16,3.29,3.3,Health Care and Social Assistance,-0.022,0.159,59.91,35,71,,,,,,,,,,,,
+35,Albuquerque, New Mexico,7.66,7.14,6.75,6.43,6.15,5.78,5.71,5.19,4.43,4.4,Health Care and Social Assistance,0.173,0.19,57.75,53,40,,,,,,,,,,,,
+36,Oklahoma City, Oklahoma,5.63,4.86,4.42,4.48,3.86,3.67,3.96,3.88,3.23,3.1,Health Care and Social Assistance,-0.041,0.156,51.43,86,45,,,,,,,,,,,,
+37,Raleigh, North Carolina,7.53,7.27,6.68,5.66,4.66,4.58,4.6,4.13,3.65,3.56,Health Care and Social Assistance,-0.17,0.135,70.96,9,136,,,,,,,,,,,,
+38,Mesa, Arizona,9.68,8.69,7.36,6.66,5.84,5.18,4.56,4.17,4.06,4.02,Health Care and Social Assistance,-0.107,0.145,51.5,82,77,,,,,,,,,,,,
+39,Miami, Florida,10.91,9.28,8.18,7.37,6.88,5.84,5.13,4.37,3.41,2.31,Health Care and Social Assistance,-0.074,0.151,51.94,93,10,,,,,,,,,,,,
+40,Atlanta, Georgia,11.28,10.98,9.86,8.87,7.67,6.5,5.78,5.13,4.25,3.65,Health Care and Social Assistance,-0.28,0.118,62.16,29,44,2.21,6.37,6.53,0.61,1046.03,2288.19,84.92,80.83,61.11,63.09,80.51,56.04
+41,Kansas City, Missouri,10.03,8.88,7.27,7.3,6.91,5.73,4.93,4.28,3.53,3.59,Health Care and Social Assistance,-0.11,0.145,59.77,28,115,,,,,,,,,,,,
+42,Colorado Springs, Colorado,9.59,8.89,8.67,7.68,5.87,4.53,3.64,3.19,3.73,3.24,Health Care and Social Assistance,-0.2,0.13,71.22,14,22,,,,,,,,,,,,
+43,Long Beach, California,13.59,13.27,11.91,10.66,9.02,7.25,5.43,4.85,4.73,4.56,Health Care and Social Assistance,-0.16,0.137,49.22,98,24,,,,,,,,,,,,
+44,Virginia Beach, Virginia,6.5,6.14,5.73,5.42,4.96,4.3,4.01,3.53,2.92,2.71,Health Care and Social Assistance,-0.042,0.156,59.43,49,20,,,,,,,,,,,,
+45,Oakland, California,13.31,12.33,10.64,8.91,7.17,5.87,4.85,4.18,3.5,3.36,Health Care and Social Assistance,-0.21,0.129,79.48,5,21,,,,,,,,,,,,
+46,Tulsa, Oklahoma,6.93,5.97,5.04,4.98,4.23,4.03,4.51,4.5,3.6,3.37,Health Care and Social Assistance,-0.054,0.154,44.88,110,86,,,,,,,,,,,,
+47,Minneapolis, Minnesota,6.87,6.08,5.3,4.63,3.83,3.36,3.39,3.08,2.53,2.82,Health Care and Social Assistance,-0.003,0.162,67.41,12,112,,,,,,,,,,,,
+48,Honolulu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,Cleveland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,New Orleans, Louisiana,8.68,8.63,7.88,7.33,6.93,6.53,5.85,5.13,5.01,4.87,Accommodation and Food Services,0.424,0.163,47.1,99,78,2.04,7.85,9.81,0.65,1242.16,1920.77,82.56,66.32,65.83,14.76,81.2,42.19
+51,Arlington, Texas,8.18,7.65,6.54,6.05,5.05,4.04,3.93,3.77,3.56,3.4,Health Care and Social Assistance,-0.23,0.13,52.76,76,55,,,,,,,,,,,,
+56,Tampa, Florida,10.93,9.79,8.18,6.85,5.89,5.33,4.68,4.12,3.65,3.24,Health Care and Social Assistance,0.043,0.17,50.36,90,48,,,,,,,,,,,,

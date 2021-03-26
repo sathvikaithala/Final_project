@@ -1,0 +1,59 @@
+# Import dependencies
+import boto3, os
+s3 = boto3.resource('s3')
+import botocore.session
+session = botocore.session.get_session()
+client = session.create_client
+import pandas as pd
+
+# Variable for S3 bucket where data is stored on AWS
+Bucket_name = 'finalprojectaqw'
+
+# Credentials for AWS access
+s3 = boto3.resource(#Insert config file)
+
+# Downloading Linear Regression Predictions
+KEY = 'lin_reg_deliverable_2_predictions.csv'
+s3.Bucket(Bucket_name).download_file(KEY, 'lin_reg_predictions.csv')
+
+# Reading in the file and checking for proper download
+lin_reg_predictions_data = pd.read_csv('lin_reg_predictions.csv')
+lin_reg_predictions_data.head()
+
+# Downloading zillow all homes data
+KEY = 'City_Zhvi_AllHomes.csv'
+s3.Bucket(Bucket_name).download_file(KEY, 'All_homes_zillow.csv')
+
+# Reading in the file and checking for proper download
+zillow_data = pd.read_csv('All_homes_zillow.csv')
+zillow_data.head()
+
+# Downloading one hot encoded data
+KEY = 'trans_with_state1HOT_Zhvi_city.csv'
+s3.Bucket(Bucket_name).download_file(KEY, 'trans_Hot.csv')
+
+# Reading in the file and checking for proper download
+trans_hot_data = pd.read_csv('trans_Hot.csv')
+trans_hot_data.head()
+
+# Downloading random forest predictions
+KEY = 'random_forest_deliverable_2_predictions.csv'
+s3.Bucket(Bucket_name).download_file(KEY, 'rand_for_predictions.csv')
+
+# Reading in the file and checking for proper download
+rand_for_pred = pd.read_csv('rand_for_predictions.csv')
+rand_for_pred.head()
+
+KEY = 'residences.csv'
+
+s3.Bucket(Bucket_name).download_file(KEY,'residences.csv')
+
+# Reading in the file and checking for proper download
+residence_data = pd.read_csv('residences.csv')
+residence_data.head()
+
+
+
+
+
+
